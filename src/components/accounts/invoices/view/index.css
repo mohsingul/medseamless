@@ -1,0 +1,15 @@
+@media print {
+    @page {size: landscape}
+    .printInvoice{
+		width: calc(100%) !important;
+		height: calc(100%) !important;
+		position: fixed !important;
+        margin: 0 0 0 0 !important;
+        padding: 0 0 0 0 !important;
+	}
+    .hideAllForPrint {
+        display: none !important;
+    }
+}
+
+
