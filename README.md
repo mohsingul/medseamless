@@ -1,6 +1,6 @@
 # Med Seamless CRM (Demo) 
 
-**Live Demo:** [https://your-demo-url.netlify.app](https://your-demo-url.netlify.app) 
+**Live Demo:** [https://medseamless.vercel.app] 
 
 This repository contains a **sanitized demo version** of a production-grade medical CRM (Customer Relationship Management) system originally built as part of the *Med Seamless* project.
 
